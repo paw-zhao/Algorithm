@@ -1,0 +1,2 @@
+model_checkpoint_path: "D:/KG_program/Algorithm/model.ckpt"
+all_model_checkpoint_paths: "D:/KG_program/Algorithm/model.ckpt"
